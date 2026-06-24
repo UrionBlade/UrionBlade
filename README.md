@@ -50,16 +50,27 @@ A calm *read-first* IDE — built to read code before you write it. → [reado.w
 <br/>
 A control panel for the home — Tauri iOS app + self-hosted API.
 
+## 🏆 Awards
+
+My portfolio won **4 [CSS Design Awards](https://www.cssdesignawards.com/sites/matteo-poli-portfolio/47906/)**:
+
+<a href="https://www.cssdesignawards.com/sites/matteo-poli-portfolio/47906/">
+  <img height="80" src="https://matteo-poli.com/images/awards/cssda-best-inn-green.webp" alt="Best Innovation" />
+  <img height="80" src="https://matteo-poli.com/images/awards/cssda-best-ui-purple.webp" alt="Best UI Design" />
+  <img height="80" src="https://matteo-poli.com/images/awards/cssda-best-ux-orange.webp" alt="Best UX Design" />
+  <img height="80" src="https://matteo-poli.com/images/awards/cssda-special-kudos-yellow.webp" alt="Special Kudos" />
+</a>
+
+*Best Innovation · Best UI Design · Best UX Design · Special Kudos*
+
 ## 📊 GitHub
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UrionBlade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=UrionBlade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
 ![Streak](https://streak-stats.demolab.com?user=UrionBlade&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrionBlade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=UrionBlade&theme=tokyonight&no-frame=true&column=7&margin-w=8)
 
 </div>
 
