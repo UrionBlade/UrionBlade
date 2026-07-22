@@ -67,10 +67,10 @@ My portfolio won **4 [CSS Design Awards](https://www.cssdesignawards.com/sites/m
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UrionBlade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
+![Stats](./profile-summary-card-output/tokyonight/3-stats.svg)
 ![Streak](https://streak-stats.demolab.com?user=UrionBlade&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrionBlade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 
 </div>
 
