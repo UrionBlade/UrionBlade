@@ -1,0 +1,50 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Fraunces', 'Playfair Display', Georgia, 'Times New Roman', serif">
+  <defs>
+    <radialGradient id="glowA" cx="15%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#E07A5F" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#E07A5F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="88%" cy="95%" r="55%">
+      <stop offset="0%" stop-color="#81A684" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#81A684" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E9B44C"/>
+      <stop offset="100%" stop-color="#E07A5F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- warm dark base -->
+  <rect width="1200" height="280" rx="18" fill="#1A1613"/>
+  <rect width="1200" height="280" rx="18" fill="url(#glowA)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#glowB)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="17" fill="none" stroke="#2C2620" stroke-width="1"/>
+
+  <!-- right motif: "read-first" — lines of code being read, one highlighted -->
+  <g transform="translate(830, 66)">
+    <rect x="0"   y="0"   width="230" height="10" rx="5" fill="#3A342C"/>
+    <rect x="0"   y="26"  width="180" height="10" rx="5" fill="#332D26"/>
+    <rect x="0"   y="52"  width="260" height="10" rx="5" fill="#E07A5F" opacity="0.9"/>
+    <rect x="-14" y="49"  width="4"   height="16" rx="2" fill="#E9B44C"/>
+    <rect x="0"   y="78"  width="150" height="10" rx="5" fill="#332D26"/>
+    <rect x="0"   y="104" width="210" height="10" rx="5" fill="#2E2822"/>
+    <rect x="0"   y="130" width="120" height="10" rx="5" fill="#2A2420"/>
+  </g>
+
+  <!-- left text block -->
+  <text x="72" y="118" font-size="66" font-weight="600" fill="#F5EFE7" letter-spacing="-1">Matteo Poli</text>
+  <rect x="76" y="134" width="132" height="4" rx="2" fill="url(#rule)"/>
+
+  <text x="74" y="176" font-size="24" font-weight="400" fill="#A8A29E" font-family="'Geist', 'Inter', system-ui, sans-serif">Full-stack developer — building Reado, a calm read-first IDE</text>
+
+  <!-- status -->
+  <circle cx="82" cy="214" r="6" fill="#81A684"/>
+  <circle cx="82" cy="214" r="6" fill="#81A684" opacity="0.35">
+    <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0;0.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="98" y="220" font-size="17" font-weight="500" fill="#C9C2B8" font-family="'Geist', 'Inter', system-ui, sans-serif">Open to work · freelance &amp; full-time</text>
+
+  <!-- awards whisper, right-aligned bottom -->
+  <text x="1128" y="242" font-size="14" font-weight="500" fill="#7A736A" text-anchor="end" font-family="'Geist', 'Inter', system-ui, sans-serif">4× CSS Design Awards</text>
+</svg>
